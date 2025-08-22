@@ -1,0 +1,8 @@
+langchain-huggingface
+langchain
+langchain-chroma>=0.1.2
+python-dotenv
+PyPDF2
+pypdf
+sentence-transformers
+langchain-community
